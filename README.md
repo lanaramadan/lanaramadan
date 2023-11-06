@@ -6,4 +6,4 @@
 I love both computer science and design, but what truly intrigues me are the points where these two fields intersect. I'm a strong believer in making products that are both intuitive and functional. 
 
 ## 📫 Contact
-Let's get in touch! Find me on [Linkedin](https://www.linkedin.com/in/lanamramadan), view my [resume](https://drive.google.com/file/d/1XAYib68jaGpQ6ovGWmjiFabzaCoAitPy/view?usp=sharing), or send me an [email](mailto:lanamramadan@gmail.com).
+Let's get in touch! Find me on [Linkedin](https://www.linkedin.com/in/lanamramadan), view my [resume](https://drive.google.com/file/d/1A9egCSm9hc0E2yeqaCAKQwvgchIuIAJG/view?usp=sharing), or send me an [email](mailto:lanamramadan@gmail.com).
