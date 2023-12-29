@@ -1,4 +1,3 @@
-![Header](https://media.licdn.com/dms/image/D4E16AQHCvvMAyrwDjQ/profile-displaybackgroundimage-shrink_350_1400/0/1694218087386?e=1700092800&v=beta&t=WpO7aJuoEB5RRYIsiiaxyX_7qtHjZ2h8hx3wvDOd15M)
 # 👋 Hello, World!   
 **Welcome to my GitHub corner! I'm thrilled to have you here. I'm Lana, a 2nd-year student pursuing Computer Science and Informatics at UC Irvine.**
 
